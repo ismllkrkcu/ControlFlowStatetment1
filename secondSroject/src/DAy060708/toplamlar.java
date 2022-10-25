@@ -1,6 +1,6 @@
-package day05;
+package DAy060708;
 
-public class MainApp {
+public class toplamlar {
     public static void main(String[] args) {
 
     }
